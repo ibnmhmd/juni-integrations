@@ -1,0 +1,24 @@
+{
+  "id": "314707597087213848",
+  "account_id": "314707590107891965",
+  "duplicated": false,
+  "mode": "normal",
+  "status": "posted",
+  "made_on": "2020-09-17",
+  "amount": 1.92,
+  "currency_code": "GBP",
+  "description": "Credit Card",
+  "category": "income",
+  "extra": {
+    "id": "5E7461275F277251H",
+    "time": "14:00:06",
+    "type": "Transfer",
+    "payee": "Credit Card",
+    "original_amount": 1.92,
+    "original_currency_code": "GBP",
+    "account_balance_snapshot": 0.0,
+    "categorization_confidence": 1
+  },
+  "created_at": "2020-09-25T17:34:05Z",
+  "updated_at": "2020-09-25T17:34:05Z"
+}

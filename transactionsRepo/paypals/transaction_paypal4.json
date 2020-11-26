@@ -1,0 +1,24 @@
+{
+  "id": "314707597087213849",
+  "account_id": "314707590107891965",
+  "duplicated": false,
+  "mode": "transfer",
+  "status": "posted",
+  "made_on": "2020-09-17",
+  "amount": -1.92,
+  "currency_code": "GBP",
+  "description": "To Euro",
+  "category": "transfer",
+  "extra": {
+    "id": "7M926502B9006912F",
+    "time": "14:00:06",
+    "type": "Currency Conversion (debit)",
+    "payee": "To Euro",
+    "original_amount": -1.92,
+    "original_currency_code": "GBP",
+    "account_balance_snapshot": 0.0,
+    "categorization_confidence": 1
+  },
+  "created_at": "2020-09-25T17:34:05Z",
+  "updated_at": "2020-09-25T17:34:05Z"
+}
